@@ -1,0 +1,10 @@
+# files without extension
+*
+!/**/
+!*.*
+
+# vscode
+.vscode
+
+# tests file
+tests.c
